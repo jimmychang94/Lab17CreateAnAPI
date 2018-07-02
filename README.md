@@ -22,8 +22,8 @@ Getting a Todo List:
 ## Directions
 To use the api:  
 1. Download [Postman](https://www.getpostman.com/)  
-2. a. If you want to access the list of todo tasks, put __________ into the request url.  
-2. b. If you want to access the todo tasks, put _______________ into the request url.  
+2. a. If you want to access the list of todo tasks, put http://lab17createanapi.azurewebsites.net/api/todoitem into the request url.  
+2. b. If you want to access the todo tasks, put http://lab17createanapi.azurewebsites.net/api/todolist into the request url.  
 3. The default action is to "read" what is currently in the api;
 to change that click on "GET" and choose:  
 "POST" to create a new task/list,  
